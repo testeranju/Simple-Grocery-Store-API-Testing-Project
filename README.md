@@ -1,9 +1,9 @@
 # Simple-Grocery-Store-API-Testing-Project
-This repository contain Test cases excel document of Simple-grocery-store API 
+This repository contain Test cases excel document of Simple-grocery-store API Testing. In order to explore please click on excel document and then opne it.
 <br>
 <br>
-Including Excel Documents 
+Including Documents 
 <li>Test Case Excel Document </li>
-<li>Test Execution Excel Document </li>
-<li>Bug Report Excel Documnet </li>
+<li>Reference pdf file </li>
+
 
